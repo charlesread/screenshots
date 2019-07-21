@@ -1,11 +1,11 @@
 <?php
 class DBController {
-	 private $host = "localhost";
-	 private $user = "root";
-    private $password = "";
-	 private $database = "registration";
+	 private $host = "den1.mysql2.gear.host";
+	 private $user = "carusers";
+    private $password = "Marlboro27!";
+	 private $database = "carusers";
 	       private $conn;
-	
+
         function __construct() {
         $this->conn = $this->connectDB();
 	}	
