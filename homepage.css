@@ -1,0 +1,61 @@
+body{
+	font-family:Sans-Serif;
+	color:white;
+	
+	
+}
+
+#id{
+	border-style:solid;
+	border-color:white;
+}
+
+html{
+	background:url('fleet.jpg') no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+
+
+
+h1{
+	font-size:50px;
+    text-align:center;
+    color: blue;
+	
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  
+ 
+}
+
+li {
+  float: left;
+  
+}
+
+li a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px  16px;
+  text-decoration: none;
+ 
+  
+}
+
+li a:hover {
+  background-color: blue;
+ 
+}
+
+h2{
+	text-align:center;
+}
