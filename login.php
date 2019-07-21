@@ -41,7 +41,7 @@ html{
   	</div>
   	<p>
 		  Not yet a member? <a href="register.php">Sign up</a>
-		  Homepage!! <a href="homepage.html">Sign up</a>
+		  <a href="homepage.html">Homepage</a>
   	</p>
   </form>
 </body>
