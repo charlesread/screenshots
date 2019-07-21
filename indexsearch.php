@@ -12,7 +12,7 @@ $makeResult = $db_handle->runQuery("SELECT DISTINCT make FROM cars ORDER BY make
     
     <h2>Search Car Information</h2>
 
-    <p><a href="http://codd.cs.gsu.edu/~dvasser1/all/homepage.html"">HOME</a> </p>
+    <p><a href="homepage.html">HOME</a> </p>
     <form method="POST" name="search" action="indexsearch.php">
         <div id="demo-grid">
             <div class="search-box">
