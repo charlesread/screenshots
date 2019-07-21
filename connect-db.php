@@ -24,7 +24,7 @@ $db = 'registration';
 
 // Connect to Database
 
-$db = mysqli_connect('localhost', 'root', '', 'registration');
+$db = mysqli_connect('den1.mysql2.gear.host', 'carusers', 'Marlboro27!', 'carusers');
 
 
 
