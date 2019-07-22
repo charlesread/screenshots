@@ -7,8 +7,7 @@ $email    = "";
 $errors = array();
 
 // connect to the database
-$db = mysqli_connect('localhost', 'root', '', 'registration');
-
+$db = mysqli_connect('den1.mysql2.gear.host', 'carusers', 'Marlboro27!', 'carusers');
 // REGISTER USER
 if (isset($_POST['reg_user'])) {
   // receive all input values from the form
