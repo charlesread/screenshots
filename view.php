@@ -77,9 +77,6 @@ echo '<td>' . $row['price'] . '</td>';
 
 echo '<td>' . $row['available'] . '</td>';
 
-
-echo '<td><a href="edit.php?id=' . $row['CarID'] . '">Edit</a></td>';
-
 echo '<td><a href="delete.php?id=' . $row['CarID'] . '">Delete</a></td>';
 
 echo "</tr>";
