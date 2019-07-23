@@ -95,7 +95,7 @@ echo "</table>";
 ?>
 
 <p><a href="newmembers.php">Add a new record</a></p>
-<p><a href="/search/homepage.html">LOGOUT</a></p>
+<p><a href="homepage.html">LOGOUT</a></p>
 <p><a href="view.php">Regular Deals</a></p>
 
 
