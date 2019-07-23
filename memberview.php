@@ -32,7 +32,7 @@ include('connect-db.php');
 
 // get results from database
 
-$result = mysqli_query($db, "SELECT * FROM cars");
+$result = mysqli_query($db, "SELECT * FROM cars_members");
 
 
 
@@ -94,9 +94,9 @@ echo "</table>";
 
 ?>
 
-<p><a href="new.php">Add a new record</a></p>
+<p><a href="newmembers.php">Add a new record</a></p>
 <p><a href="/search/homepage.html">LOGOUT</a></p>
-<p><a href="memberview.php">Member Deals</a></p>
+<p><a href="view.php">Regular Deals</a></p>
 
 
 
