@@ -4,6 +4,17 @@
 <head>
   <title>Registration system PHP and MySQL</title>
   <link rel="stylesheet" type="text/css" href="style.css">
+	
+	<style>
+	html{
+	background:url('fleet2.jpg') no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+</style>
+
 </head>
 <body>
   <div class="header">
