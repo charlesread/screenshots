@@ -9,3 +9,12 @@ h2{
     font-size:40px;
     text-align: center;
 }
+
+.verticalhorizontal{
+    
+    display: table-cell;
+    height: 300px;
+    text-align: center;
+    width: 300px;
+    vertical-align: middle;
+}
