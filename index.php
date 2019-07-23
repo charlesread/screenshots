@@ -55,7 +55,7 @@ html{
     	<p>Welcome <strong><?php echo $_SESSION['username']; ?></strong></p>
 		<p> <a href="index.php?logout='1'" style="color: red;">logout</a></p>
 		<p> <a href="homepage.html" style="color: red;">Home</a>
-		<p> <a href="indexsearch.php" style="color: red;">Search Car</a> </p>
+		<p> <a href="memberDeals.html" style="color: red;">Acess Member Deals</a> </p>
     <?php endif ?>
 </div>
 
