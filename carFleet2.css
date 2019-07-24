@@ -1,0 +1,71 @@
+
+
+
+
+
+
+html{
+	background:url('images/backGround.jpg') no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+
+h1{
+	text-align: center; 
+	font-size: 50px;
+}
+
+h3{
+	padding: 1px;
+	margin: 15px;
+	color: teal;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+
+}
+
+li {
+  float: left;
+  
+}
+
+li a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px  16px;
+  text-decoration: none;
+ 
+  
+}
+
+li a:hover {
+  background-color: blue;
+ 
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+ol{
+	color: teal;
+	
+}
+
+label
+{
+color: teal;
+}
