@@ -23,7 +23,8 @@ html{
 </head>
 <body>
   <div class="header">
-  	<h2>Screenshots Car Rental Login</h2>
+  	<h2>Screenshots Car Rental</h2>
+	  <h2> LOGIN</h2>
   </div>
 
   <form method="post" action="login.php">
