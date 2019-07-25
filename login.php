@@ -23,7 +23,7 @@ html{
 </head>
 <body>
   <div class="header">
-  	<h2>Screenshots Car Rental</h2>
+  	<h2>Screenshots Car Rental</h2> <br>
 	  <h2> LOGIN</h2>
   </div>
 
